@@ -1,0 +1,7 @@
+---
+vlnv: :spirit:up_down_counter:1.0.0
+files:
+        common:
+            - up_down_counter.v
+        formal:
+            - verification/up_down_counter_formal.v
